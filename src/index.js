@@ -14,5 +14,5 @@ console.log(fnAdd5(3));
 console.log(fnAdd10(3));
 
 function hello() {
-    console.log('')
+    console.log('Salut, je m\'appelle John.')
 }
