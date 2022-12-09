@@ -12,9 +12,3 @@ const fnAdd10 = addFactory(10);
 console.log(fnAdd2(3));
 console.log(fnAdd5(3));
 console.log(fnAdd10(3));
-
-function hello() {
-    console.log('Salut, je m\'appelle John.');
-}
-
-hello();
